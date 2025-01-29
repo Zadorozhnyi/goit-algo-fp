@@ -68,6 +68,29 @@ python task_3.py
 
 👉🏻 Примітка. Використовуйте стек та чергу, НЕ рекурсію
 
+**Для запуску скрипту у терміналі:**
+```
+python task_5.py
+Обхід у ширину (BFS)
+```
+![image info](BFS_1.png)
+![image info](BFS_2.png)
+![image info](BFS_3.png)
+![image info](BFS_4.png)
+![image info](BFS_5.png)
+![image info](BFS_6.png)
+![image info](BFS_7.png)
+
+```
+Обхід у глибину (DFS)
+```
+![image info](DFS_1.png)
+![image info](DFS_2.png)
+![image info](DFS_3.png)
+![image info](DFS_4.png)
+![image info](DFS_5.png)
+![image info](DFS_6.png)
+![image info](DFS_7.png)
 
 
 ## Завдання 6. Жадібні алгоритми та динамічне програмування

@@ -113,5 +113,7 @@ tree_root = build_heap_tree(heap)
 # Візуалізація обходів
 bfs_order = bfs_traversal(tree_root)
 dfs_order = dfs_traversal(tree_root)
+print("Обхід у ширину (BFS)")
 visualize_traversal(tree_root, bfs_order, "Обхід у ширину (BFS)")
+print("Обхід у глибину (DFS)")
 visualize_traversal(tree_root, dfs_order, "Обхід у глибину (DFS)")
